@@ -58,7 +58,7 @@ int user_choice = 0;
 					printf("ERROR: NO ELEMENT IN THE QUEUE!\n");
 				}
 				else {
-					printf("POPPED ELEMENT IS %d\n", dequeue);
+					printf("DEQUEUED ELEMENT IS %d\n", dequeue);
 				}
 				break;
 			case 3:
